@@ -7,7 +7,7 @@ It is a responsive interface to view general information of a restaurant, such a
 This project was made with the idea of ​​improving knowledge in HTML and CSS.
 
 In addition, the application was also deployed on Netlify, you can access it through the link:
-- [Gericht](https://gwollmannblog.netlify.app/)
+- [Gericht](https://resaurantgericht.netlify.app/)
 
 ## 🛠 Technologies
 
