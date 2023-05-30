@@ -8,6 +8,7 @@ This project was made with the idea of ​​improving knowledge in HTML and CSS
 
 In addition, the application was also deployed on Netlify, you can access it through the link:
 - [Gericht](https://resaurantgericht.netlify.app/)
+- [Course Link](https://www.youtube.com/watch?v=4oV65GVVits&t=61s&ab_channel=JavaScriptMastery)
 
 ## 🛠 Technologies
 
